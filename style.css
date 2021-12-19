@@ -1,0 +1,123 @@
+/* START  navigation module CSS here   */
+
+.navbar{
+
+	background-image:url("images/RCB.jpg");
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.nav-link{
+margin-right:10px;
+font-size: 20px;
+color: white !important;
+
+}
+.navbar-collapse{
+  position: relative;
+  right: 3rem;
+}
+
+/* END  navigation module CSS here   */
+
+/* START CAROUSEL MODULES CSS */
+#carousel img
+{
+	height:550px;
+
+}
+.h5, .h5 {
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: black;
+}
+
+/* END CAROUSEL MODULES CSS*/
+
+/* START THREE PHOTO MODULES CSS*/
+#threePhotoSection img
+{
+	width:420px;
+	height:300px;
+}
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+#threePhotoSection
+{
+	margin-bottom:30px;
+}
+
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+#moreAboutUs h3
+{
+	padding:25px;
+	padding-bottom:40px;
+	color:white;
+}
+
+#moreAboutUs  blockquote
+{
+	padding:55px;
+
+}
+#moreAboutUs
+{
+	background-image: url("images/ironman.jpg");
+
+	 background-width: 100%;
+	color:white;
+}
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+/* END OF TABLE MODULE CSS*/
+
+/* START OF FORM MODULES CSS*/
+.contact{
+	 background-image: url("images/infinity.jpg");}
+   .h4{
+     color: white;
+   
+	}
+
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/
+.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+   margin-top:50px;
+}
+
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/
+ footer{
+	background-image: url("images/avvi.jpg");
+	color: white;
+	padding: 2rem 0 2rem;
+	margin-top: 1rem;
+}
+footer img{
+	height: 3rem;
+	margin: 1.5rem 0;
+}
+footer a{
+	color:black;
+}
+
+ /* END OF FOOTER CSS*/
